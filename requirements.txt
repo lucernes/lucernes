@@ -1,0 +1,4 @@
+random
+bs4
+requests
+lxml
